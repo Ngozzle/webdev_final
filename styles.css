@@ -246,7 +246,7 @@ input[type=submit] {
     }
 
     h1 {
-        color: green;
+        /* color: green; */
         font-size: 100px;
     }
 
@@ -280,7 +280,7 @@ input[type=submit] {
     }
 
     h1 {
-        color: red;
+        /* color: red; */
         margin: 250px 0 50px;
         font-size: 80px;
     }
